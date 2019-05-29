@@ -1,0 +1,32 @@
+*{
+    box-sizing: border-box;
+}
+
+
+
+.work {
+    position: relative;
+    float: left;
+    margin: 20px 0 25px;
+    overflow: auto;
+}
+
+button {
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+    
+}
+
+form {
+
+}
+
+.container {
+    width: 100%;
+    max-width: 960px;
+    margin: 0 auto;
+    clear: both;
+    background: #ffffff;
+    padding: 20px;
+}
